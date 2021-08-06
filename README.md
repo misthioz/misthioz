@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there. I'm Arthur 👋
+
+I'm 19 years old, born and living in Brazil. Computer Science Major. 
+
+I love programming, specially working with game development. I'm passionate about learning new skills. 
+Currently learning Java and Kotlin.
 
 <!--
 **misthioz/misthioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
