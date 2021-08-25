@@ -1,9 +1,10 @@
 ### Hey there. I'm Arthur 👋
 
-I'm 19 years old, born and living in Brazil. Computer Science Major. 
-
-I love programming, specially working with game development. I'm passionate about learning new skills. 
-Currently learning Java and Kotlin.
+🇧🇷 I'm 19 years old, born and living in Brazil. 
+💻 Passionate about programmming, learning, and developing new skills and ideas. 
+📚 Computer Science Major at Univeridade Presbiteriana Mackenzie. Java Developer in training at Let's Code.
+🎮 Game developer.
+🖊️ Hobbyist writer and artist. 
 
 <!--
 **misthioz/misthioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
