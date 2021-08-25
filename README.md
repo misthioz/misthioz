@@ -1,9 +1,13 @@
 ### Hey there. I'm Arthur 👋
 
-🇧🇷 I'm 19 years old, born and living in Brazil. 
+🌎 I'm 19 years old, born and living in Brazil. 
+
 💻 Passionate about programmming, learning, and developing new skills and ideas. 
+
 📚 Computer Science Major at Univeridade Presbiteriana Mackenzie. Java Developer in training at Let's Code.
+
 🎮 Game developer.
+
 🖊️ Hobbyist writer and artist. 
 
 <!--
