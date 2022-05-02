@@ -4,11 +4,10 @@
 
 💻 Passionate about programmming, learning, and developing new skills and ideas. 
 
-📚 Computer Science Major at Univeridade Presbiteriana Mackenzie. Java Developer in training at Let's Code.
+📚 Computer Science Major at Univeridade Presbiteriana Mackenzie. 
 
 🎮 Game developer.
 
-🖊️ Hobbyist writer and artist. 
 
 <br>
  <div>
