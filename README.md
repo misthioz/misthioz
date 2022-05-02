@@ -4,6 +4,8 @@
 
 💻 Passionate about programmming, learning, and developing new skills and ideas. 
 
+:man_technologist: I currently work with Quality Assurance 
+
 📚 Computer Science Major at Univeridade Presbiteriana Mackenzie. 
 
 🎮 Game developer.
