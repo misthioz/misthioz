@@ -1,6 +1,6 @@
 ### Hey there. I'm Arthur 👋
 
-🌎 I'm 21 years old, born and living in Brazil. 
+🌎 I'm 22 years old, born and living in Brazil. 
 
 💻 Passionate about programmming, learning, and developing new skills and ideas. 
 
